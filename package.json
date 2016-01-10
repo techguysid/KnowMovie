@@ -1,0 +1,12 @@
+{
+  "name"         : "KnowMovie",
+  "version"      : "0.0.1",
+  "description"  : "Get details of a movie",
+  "main"         : "server.js",
+  "author"       : "techguysid",
+  "dependencies" : {
+    "express"    : "latest",    
+    "request"    : "latest",    
+    "cheerio"    : "latest"     
+  }
+}
